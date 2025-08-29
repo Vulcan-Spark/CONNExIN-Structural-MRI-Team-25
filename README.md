@@ -11,7 +11,7 @@ Our goal is to learn and apply structural MRI analysis methods to neurodegenerat
 - Bickersteth Oluwatoni,  Physics and Electronics Department, Bells University of Technology Nigeria
 - Gebregziabihier Nigusie, Bahir Dar University, Ethopia
 - Patrick Yeboah Bonsu, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
-- Metadel Tessema, 
+- Metadel Tessema, Addis Ababa University,Ethiopia.
 - Smart Chidi Oparaugo, University of Port Harcourt, Nigeria 
 
 ---
